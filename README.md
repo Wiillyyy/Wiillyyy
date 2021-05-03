@@ -10,7 +10,7 @@ Juste un étudiant de 19 ans Français qui passe ses heures derrière son écran
 J'aime bien dev, et ça me pousse à créer de nouvelles choses donc me voici me voilà :)</br>
 A part ça j'adore les animes et les mangas, le dessin et la musique.
 
-Appuie sur moi ⬇️
+Appuie là dessus ⬇️
 
 <details>
 <summary>Languages et autres</summary>
