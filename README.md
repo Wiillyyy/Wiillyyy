@@ -14,15 +14,14 @@ Appuie là dessus ⬇️
 
 <details>
 <summary>Languages et autres</summary>
--Les langagues que...
 
-##### _J'adore <3_
+##### _J'adore celles ci mais... <3_
 
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql)
 
-##### _J'utilise_
+##### _J'utilise aussi celles ci_
 
 ![PHP](https://img.shields.io/badge/-PHP-503399?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-31556E?style=for-the-badge&logo=python)
