@@ -1,5 +1,5 @@
 <p align="center">
-<img width=350 src=https://willydev.xyz/webimg/BioWill.png>
+<img width=225 src=https://willydev.xyz/webimg/BioWill.png>
 </p>
 
 
