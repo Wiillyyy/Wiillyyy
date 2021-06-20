@@ -58,7 +58,11 @@ Appuie là dessus ⬇️
 
 
 <summary>Stats & autres</summary>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiillyyy)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Wiillyyy&hide_border=true&show_icons=true&theme=radical" alt="Willy's Stats" width="38%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiillyyy&layout=compact&theme=tokyonight" width="38%">
+<!--- <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Wiillyyy&layout=compact&theme=cobalt" width="38%"> --->
+    </p>
 </details>
 __________________________________________________________________________________________
 
