@@ -58,7 +58,7 @@ Appuie là dessus ⬇️
 
 
 <summary>Stats & autres</summary>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiillyyy)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiillyyy)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 __________________________________________________________________________________________
 
