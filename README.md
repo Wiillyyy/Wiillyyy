@@ -7,7 +7,7 @@
 ## <p align="center"> Vous voulez en savoir plus à propos de moi ? </p>
 <p align="center"> Juste un étudiant Français de 19 ans qui passe ses heures derrière son écran, j'essaye de créer de nouveau projets et des créations
 J'aime bien dev, et ça me pousse à créer de nouvelles choses donc me voici me voilà :)</br>
-A part ça j'adore les animes et les mangas, le dessin et la musique. </p>
+A part ça j'adore les animes et les mangas, la musique rien branler et coder. </p>
 
 Appuie là dessus ⬇️
 
