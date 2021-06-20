@@ -2,27 +2,27 @@
 <img width=375 src=https://media.discordapp.net/attachments/611654295355654145/854118996042055700/unknown.png>
 </p>
 
-
 ## <h1 align="center">Hey :) je suis <a href="http://willydev.xyz">William Zlojo :)</a><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="5%"></h1>
 
-## Vous voulez en savoir plus à propos de moi ?
-Juste un étudiant Français de 19 ans qui passe ses heures derrière son écran, j'essaye de créer de nouveau projets et des créations
+## <p align="center"> Vous voulez en savoir plus à propos de moi ? </p>
+<p align="center"> Juste un étudiant Français de 19 ans qui passe ses heures derrière son écran, j'essaye de créer de nouveau projets et des créations
 J'aime bien dev, et ça me pousse à créer de nouvelles choses donc me voici me voilà :)</br>
-A part ça j'adore les animes et les mangas, le dessin et la musique.
+A part ça j'adore les animes et les mangas, le dessin et la musique. </p>
 
 Appuie là dessus ⬇️
 
 <details>
-<summary>Languages de Prog.</summary>
+<summary>Languages de Prog. et autres</summary>
+
 
 ##### _Pour le moment je maîtrise ceci <3_
-
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-503399?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-31556E?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgreSQL&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-C5A42F?style=for-the-badge&logo=java)
+
 
 ##### _[**edit 06/2021**] Jme suis donné un défi : essayer de learn/perfectionner ces langages pendant les vacances 2021._
 
@@ -46,17 +46,21 @@ Appuie là dessus ⬇️
 ![ADOBEPr](https://img.shields.io/badge/-Premiere%20Pro-red?style=for-the-badge&logo=AdobePremierePro&logoColor=white)<br>
 ![GIT](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)<br>
 
-OS maîtrisés<br>
+##### _OS maîtrisés_<br>
 ![Win](https://img.shields.io/badge/-Win-blue?style=for-the-badge&logo=Windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/-debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-FF6C37?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![QOS](https://img.shields.io/badge/-Qubes%20OS-3874D8?style=for-the-badge&logo=QubesOS&logoColor=white)
 ![Kali](https://img.shields.io/badge/-Kali-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)
-![MAC](https://img.shields.io/badge/-MacOS-white?style=for-the-badge&logo=Apple&logoColor=gray)
+![MAC](https://img.shields.io/badge/-MacOS-white?style=for-the-badge&logo=Apple&logoColor=gray)</p>
+</details>
+<details>
 
 
+<summary>Stats & autres</summary>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiillyyy)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+__________________________________________________________________________________________
 
-___
-
-Si jamais vous avez quelques questions à poser n'hésitez pas ma boîte mail est ouverte
-Feel free de me contacter !
+Si jamais vous avez quelques questions à poser n'hésitez pas ma boîte mail est ouverte<br>
+Feel Free de me contacter !
