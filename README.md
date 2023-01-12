@@ -28,19 +28,20 @@
 
 ![Java](https://img.shields.io/badge/-Java-C5A42F?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
-(![C](https://img.shields.io/badge/-C++-darkblue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/-C++-darkblue?style=for-the-badge&logo=cplusplus)
  
 ##### _small future project phone app w/ unity_
-![C#](https://img.shields.io/badge/-C%20sharp-darkgreen?style=for-the-badge&logo=c#))
+![C#](https://img.shields.io/badge/-C%20sharp-darkgreen?style=for-the-badge&logo=c#)
 
 ##### _we'll see later_
 ![Angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=red)
+![Kotlin](https://img.shields.io/badge/-kotlin-white?style=for-the-badge&logo=kotlin&logoColor=purple)
+
 
 ##### _daily work with_
 ![NodeJS](https://img.shields.io/badge/-node.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
-![Angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=red)
-
+![choco](https://img.shields.io/badge/-choco-fedcba?style=for-the-badge&logo=chocolatey)
 
 ##### _other stuff_
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=for-the-badge&logo=mySQL&logoColor=white)
