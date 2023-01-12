@@ -1,32 +1,26 @@
 <p align="center">
-<img width=575 src=https://willydev.xyz/webimg/Willy%20logo.png>
+<img width=575 src=https://williamzlojo.fr/webimg/Willy%20logo.png>
 </p>
 
 
 ## <h1 align="center">Salut mon cochon<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="5%"></h1>
 
 <p align="center">
-<img width=1200 src=https://willydev.xyz/webimg/BanniereGITHUB.png>
+<img width=1200 src=https://williamzlojo.fr/webimg/BanniereGITHUB.png>
 </p>
 
 
-## <p align="center"> Vous voulez en savoir plus à propos de moi ? </p>
-<p align="center"> Juste un étudiant Français de 19 ans qui passe ses heures derrière son écran, j'essaye de créer de nouveau projets et des créations<br>
-J'aime bien dev, et ça me pousse à créer de nouvelles choses donc me voici me voilà :)</br>
-A part ça j'adore les animes et les mangas, la musique rien branler et coder. </p>
+## <p align="center"> dont click here bruh ⬇️</p>
 
-Appuie là dessus ⬇️
 
 <details>
-<summary>Languages de Prog. et autres</summary>
+<summary>mainly active</summary>
 
 
-##### _Pour le moment je maîtrise ceci <3_
+##### _web dev_
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-503399?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/-Python-31556E?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgreSQL&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-C5A42F?style=for-the-badge&logo=java)
 
 
@@ -51,6 +45,8 @@ Appuie là dessus ⬇️
 ![ADOBEAi](https://img.shields.io/badge/-Illustrator-FBA034?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 ![ADOBEPr](https://img.shields.io/badge/-Premiere%20Pro-red?style=for-the-badge&logo=AdobePremierePro&logoColor=white)<br>
 ![GIT](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)<br>
+ ![Python](https://img.shields.io/badge/-Python-31556E?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgreSQL&logoColor=white)
 
 ##### _OS maîtrisés_<br>
 ![Win](https://img.shields.io/badge/-Win-blue?style=for-the-badge&logo=Windows&logoColor=white)
