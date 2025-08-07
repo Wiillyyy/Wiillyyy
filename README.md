@@ -1,4 +1,4 @@
-## <h1 align="center">Hello<width="5%"></h1>
+## <h1 align="center">Hello
 
 <p align="center">
 <img width=575 src=https://williamzlojo.fr/webimg/Willy%20logo.png>
