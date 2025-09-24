@@ -68,6 +68,3 @@
     </p>
 </details>
 __________________________________________________________________________________________
-
-Si jamais vous avez quelques questions à poser n'hésitez pas ma boîte mail est ouverte<br>
-Feel Free de me contacter !
