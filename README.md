@@ -25,11 +25,12 @@
 ![Java](https://img.shields.io/badge/-Java-C5A42F?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/-C++-darkblue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-31556E?style=for-the-badge&logo=python)
  
 ##### _small future project phone app w/ unity_
 ![C#](https://img.shields.io/badge/-C%20sharp-darkgreen?style=for-the-badge&logo=c#)
 
-##### _we'll see later_
+##### _we'll see later (or never)_
 ![Angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=red)
 ![Kotlin](https://img.shields.io/badge/-kotlin-white?style=for-the-badge&logo=kotlin&logoColor=purple)
 
@@ -46,7 +47,6 @@
 ![ADOBEAi](https://img.shields.io/badge/-Illustrator-FBA034?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 ![ADOBEPr](https://img.shields.io/badge/-Premiere%20Pro-red?style=for-the-badge&logo=AdobePremierePro&logoColor=white)<br>
 ![GIT](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)<br>
-![Python](https://img.shields.io/badge/-Python-31556E?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgreSQL&logoColor=white)
 
 ##### _OS_<br>
